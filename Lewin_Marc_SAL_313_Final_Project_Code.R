@@ -1017,5 +1017,3 @@ print(paste("Accuracy:", round(rf_accuracy, 4)))
 print(paste("Precision:", round(rf_precision, 4)))
 print(paste("Recall:", round(rf_recall, 4)))
 print(paste("F-Measure:", round(rf_f_measure, 4)))
-
-## DONE!! --------------------------------------------------------------------------------
